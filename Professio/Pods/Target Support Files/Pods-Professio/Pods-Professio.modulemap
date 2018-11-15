@@ -1,0 +1,6 @@
+framework module Pods_Professio {
+  umbrella header "Pods-Professio-umbrella.h"
+
+  export *
+  module * { export * }
+}
